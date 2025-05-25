@@ -43,6 +43,13 @@ This project is a multi-mode smart robotic car that can be controlled using **ha
   - `R` = Right  
   - `S` = Stop
 
+
+ 
+![image](https://github.com/user-attachments/assets/d8d84d08-1980-4864-8319-a388b56fbd15)
+![image](https://github.com/user-attachments/assets/bfd7abbb-c3f2-43e7-a110-3e26902b930b)
+
+
+
 ### 🚗 Receiver
 - **ESP32** receives gesture or voice commands via ESP-NOW.
 - **L298N** drives the motors accordingly.
@@ -101,7 +108,9 @@ This project is a multi-mode smart robotic car that can be controlled using **ha
 
 ## 📷 Screenshots
 
-> Add images or wiring diagrams here if needed.
+![image](https://github.com/user-attachments/assets/5bf02d65-8a3a-4fd1-b3d9-28337865709e)
+![image](https://github.com/user-attachments/assets/e322d891-5c12-47cb-bd31-1e6bb7fc3a8b)
+
 
 ---
 
