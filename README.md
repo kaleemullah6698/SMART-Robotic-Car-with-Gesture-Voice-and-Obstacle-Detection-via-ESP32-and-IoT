@@ -54,21 +54,6 @@ This project is a multi-mode smart robotic car that can be controlled using **ha
 
 ---
 
-## 📁 Project Structure
-
-/smart-robot-car
-├── transmitter/
-│ └── gesture_transmitter.ino
-├── receiver/
-│ └── motor_receiver.ino
-├── voice_control/
-│ └── google_ifttt_setup.md
-├── bluetooth_manual/
-│ └── bluetooth_obstacle_control.ino
-├── README.md
-└── wiring_diagrams/
-└── schematic.png
-
 
 ## 🛠️ Setup Instructions
 
