@@ -59,6 +59,9 @@ This project is a multi-mode smart robotic car that can be controlled using **ha
 - Google Assistant triggers IFTTT webhook.
 - Adafruit IO sends command to ESP32 over the internet.
 
+![image](https://github.com/user-attachments/assets/fcfb8dbf-0462-4b6f-893d-ebc190482734)
+
+
 ---
 
 
